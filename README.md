@@ -13,7 +13,7 @@ This repository contains a comprehensive exploration of 3-layer Deep Neural Netw
 * **Description:** A pure NumPy implementation (with `tf.einsum`) of a 3-layer network.
 * **Key Features:** Manual backpropagation, chain rule implementation, and 4D plotting of 3-variable non-linear data.
 * **Highlights:** Uses `einsum` for optimized matrix operations.
-* [View Colab]([https://colab.research.google.com/drive/1xdt5DET1id38VNmUc1Q-F_VVZJ0SyAa_?usp=sharing)
+* [View Colab](https://colab.research.google.com/drive/1xdt5DET1id38VNmUc1Q-F_VVZJ0SyAa_?usp=sharing)
 
 ### B) PyTorch from Scratch
 * **Description:** Building the 3-layer architecture without `torch.nn.Linear`.
