@@ -3,7 +3,7 @@
 This repository contains a comprehensive exploration of 3-layer Deep Neural Networks (DNNs) for non-linear regression. We progress from raw mathematical implementations using **NumPy and Tensor Einsum** to high-level abstractions in **PyTorch Lightning** and **TensorFlow**.
 
 ## 📺 Video Walkthrough
-[![Project Walkthrough]](https://youtu.be/WDerNwz55gA)
+[[Project Walkthrough]](https://youtu.be/WDerNwz55gA)
 
 ---
 
